@@ -2,3 +2,5 @@
 create repo, clone to local computer, make commit to readme file, get changes back up to github
 
 my fave food - chocolate lava cake
+
+make git conflict on github
