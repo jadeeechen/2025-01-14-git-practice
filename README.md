@@ -3,4 +3,8 @@ create repo, clone to local computer, make commit to readme file, get changes ba
 
 my fave food - chocolate lava cake
 
+<<<<<<< HEAD
 make git conflict on local computer
+=======
+make git conflict on github
+>>>>>>> 5620f98dcaad936f92c3473816b9cda21dd4e769
